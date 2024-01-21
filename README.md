@@ -7,3 +7,5 @@ This line was added remotely
 Just added this for push
 
 Another change made locally
+
+This content was added for push operation
